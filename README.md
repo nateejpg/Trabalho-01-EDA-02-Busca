@@ -23,11 +23,11 @@
 ## Screenshots
 ### [(Mediana de 2 vetores ordenados)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-![(Mediana das Medianas)](img/4-Median.png)
+![(Mediana das Medianas)](/Imagens/Median.png)
 
 ### [ (Concatenação de todas as palavras com Substring)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
 
-![ (Contagem de inversões)](img/30-Substring.png)
+![ (Contagem de inversões)](/Imagens/Substring.png)
 
 ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! --------------------------------------
 
