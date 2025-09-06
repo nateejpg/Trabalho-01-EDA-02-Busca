@@ -1,36 +1,80 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Algorítmos de busca!
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
+**Número da Lista**: 31<br>
+**Conteúdo da Disciplina**: Algorítmos de busca!<br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 211031074 | João Pedro da Silva Rodrigues |
+| 221022696 | Nathan Benigno Ponce de Abreu |
+
+## Sobre 
+
+### Questões Difíceis
+| Título | Responsável | 
+| -- | -- | 
+| 30. Substring with Concatenation of All Words | Nathan Abreu | 
+| 4. Median of Two Sorted Arrays  | Nathan Abreu | 
+|  | João Pedro | 
+|  | João Pedro | 
+
+
+## Screenshots
+### [(Mediana de 2 vetores ordenados)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+![(Mediana das Medianas)](img/4-Median.png)
+
+### [ (Concatenação de todas as palavras com Substring)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
+![ (Contagem de inversões)](img/30-Substring.png)
+
+ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! --------------------------------------
+
+### [(Karatsuba)](https://leetcode.com/problems/multiply-strings/description/)
+
+![(Karatsuba](img/Karatsuba.PNG)
+
+### [(Strassen)](https://leetcode.com/problems/scramble-string/description/)
+
+![ (Strassen)](img/Strassen.PNG)
+
+
+## Link do vídeo
+
+Adicionar URL DO YOUTUBE AQUI --------------------------------
+
+
+## Guia de execução
+
+### Questão 01
+
+rode o Python:
+
 ```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+input: 
+s = "barfoothefoobarman"
+words = ["foo","bar"]
+
+output: 
+[0,9]
+
+```
+
+### Questão 02
+
+
+```
+input: 
+nums1 = [1,3]
+num2 = [2]
+
+output:
+2.00000
+
+```
+
+## Instalação 
+python instalado
+
+**Linguagem**: Python <br>
