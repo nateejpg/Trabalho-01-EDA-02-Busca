@@ -49,7 +49,7 @@ Adicionar URL DO YOUTUBE AQUI --------------------------------
 
 ### Questão 01
 
-rode o Python:
+rode o Python: Nathan/Substring.py
 
 ```
 input: 
@@ -63,6 +63,7 @@ output:
 
 ### Questão 02
 
+rode o Python: Nathan/Median.py
 
 ```
 input: 
@@ -76,6 +77,7 @@ output:
 
 ### Questão 03
 
+rode o Python: Joao_Pedro/multiply_String_Medium.py
 
 ```
 input: 
@@ -90,6 +92,7 @@ Case 2: "56088"
 
 ### Questão 04
 
+rode o Python: Joao_Pedro/Scramble_String_Hard.py
 
 ```
 input: 
