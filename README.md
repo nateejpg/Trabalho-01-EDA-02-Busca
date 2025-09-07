@@ -16,8 +16,8 @@
 | -- | -- | 
 | 30. Substring with Concatenation of All Words | Nathan Abreu | 
 | 4. Median of Two Sorted Arrays  | Nathan Abreu | 
-|  | João Pedro | 
-|  | João Pedro | 
+|  | 43. Multiply Strings: Nível de dificuldade médio| João Pedro | 
+|  | 87. Scramble String: Nível de dificuldade díficil | João Pedro | 
 
 
 ## Screenshots
@@ -31,13 +31,13 @@
 
 ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! --------------------------------------
 
-### [(Karatsuba)](https://leetcode.com/problems/multiply-strings/description/)
+### [(Multiplicação de 2 strings)](https://leetcode.com/problems/multiply-strings/description/)
 
-![(Karatsuba](img/Karatsuba.PNG)
+![(Multiplicação de 2 strings)](Imagens/43_Multiply_Strings_Medium.png)
 
-### [(Strassen)](https://leetcode.com/problems/scramble-string/description/)
+### [(Embaralhar String)](https://leetcode.com/problems/scramble-string/description/)
 
-![ (Strassen)](img/Strassen.PNG)
+![(Embaralhar String)](Imagens/87_Scramble_String_Hard.png) 
 
 
 ## Link do vídeo
@@ -71,6 +71,34 @@ num2 = [2]
 
 output:
 2.00000
+
+```
+
+### Questão 03
+
+
+```
+input: 
+Caso 1: num1 = "2", num2 = "3"
+Case 2: num1 = "123", num2 = "456"
+
+output:
+Caso 1: "6"
+Case 2: "56088"
+
+```
+
+### Questão 04
+
+
+```
+input: 
+Caso 1: s1 = "abcde", s2 = "caebd"
+Case 2: s1 = "a", s2 = "a"
+
+output:
+Caso 1: false
+Caso 2: true
 
 ```
 
