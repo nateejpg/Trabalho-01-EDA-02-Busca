@@ -29,15 +29,15 @@
 
 ![ (Contagem de inversões)](/Imagens/Substring.png)
 
-ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! --------------------------------------
 
-### [(Multiplicação de 2 strings)](https://leetcode.com/problems/multiply-strings/description/)
 
-![(Multiplicação de 2 strings)](Imagens/43_Multiply_Strings_Medium.png)
+### [(Soma máxima do caminho da árvore binária)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=binary-tree)
 
-### [(Embaralhar String)](https://leetcode.com/problems/scramble-string/description/)
+![(Soma máxima do caminho da árvore binária)](Imagens/BinaryTree.png)
 
-![(Embaralhar String)](Imagens/87_Scramble_String_Hard.png) 
+### [(Solucionador de Sudoku)](https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=hash-table)
+
+![(Solucionador de Sudoku)](Imagens/SudokuSolver.png) 
 
 
 ## Link do vídeo
@@ -77,31 +77,28 @@ output:
 
 ### Questão 03
 
-rode o Python: Joao_Pedro/multiply_String_Medium.py
+rode o Python: Joao_Pedro/BinaryTree.py
 
 ```
 input: 
-Caso 1: num1 = "2", num2 = "3"
-Case 2: num1 = "123", num2 = "456"
+root = [1,2,3]
+
 
 output:
-Caso 1: "6"
-Case 2: "56088"
+ 6
 
 ```
 
 ### Questão 04
 
-rode o Python: Joao_Pedro/Scramble_String_Hard.py
+rode o Python: Joao_Pedro/SudokuSolver.py
 
 ```
 input: 
-Caso 1: s1 = "abcde", s2 = "caebd"
-Case 2: s1 = "a", s2 = "a"
+board = [["5","3",".",".","7",".",".",".","."],["6",".",".","1","9","5",".",".","."],[".","9","8",".",".",".",".","6","."],["8",".",".",".","6",".",".",".","3"],["4",".",".","8",".","3",".",".","1"],["7",".",".",".","2",".",".",".","6"],[".","6",".",".",".",".","2","8","."],[".",".",".","4","1","9",".",".","5"],[".",".",".",".","8",".",".","7","9"]]
 
 output:
-Caso 1: false
-Caso 2: true
+[["5","3","4","6","7","8","9","1","2"],["6","7","2","1","9","5","3","4","8"],["1","9","8","3","4","2","5","6","7"],["8","5","9","7","6","1","4","2","3"],["4","2","6","8","5","3","7","9","1"],["7","1","3","9","2","4","8","5","6"],["9","6","1","5","3","7","2","8","4"],["2","8","7","4","1","9","6","3","5"],["3","4","5","2","8","6","1","7","9"]]
 
 ```
 
