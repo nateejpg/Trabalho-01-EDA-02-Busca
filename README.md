@@ -29,8 +29,6 @@
 
 ![ (Contagem de inversões)](/Imagens/Substring.png)
 
-ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! --------------------------------------
-
 ### [(Multiplicação de 2 strings)](https://leetcode.com/problems/multiply-strings/description/)
 
 ![(Multiplicação de 2 strings)](Imagens/43_Multiply_Strings_Medium.png)
