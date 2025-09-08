@@ -42,8 +42,7 @@
 
 ## Link do vídeo
 
-https://youtu.be/xIBc8k4cfC0
-
+https://youtu.be/v1Hp2W2oak0
 
 ## Guia de execução
 
