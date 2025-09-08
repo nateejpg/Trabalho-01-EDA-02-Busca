@@ -42,7 +42,7 @@ ADICIONE SUAS QUESTÕES E PRINTS AQUI, JOAO! -----------------------------------
 
 ## Link do vídeo
 
-Adicionar URL DO YOUTUBE AQUI --------------------------------
+Adicionar URL DO YOUTUBE AQUI: https://youtu.be/xIBc8k4cfC0
 
 
 ## Guia de execução
