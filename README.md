@@ -16,8 +16,8 @@
 | -- | -- | 
 | 30. Substring with Concatenation of All Words | Nathan Abreu | 
 | 4. Median of Two Sorted Arrays  | Nathan Abreu | 
-| 43. Multiply Strings: Nível de dificuldade médio| João Pedro | 
-| 87. Scramble String: Nível de dificuldade díficil | João Pedro | 
+| 124. Binary Tree Maximum Path Sum| João Pedro | 
+| 37. Sudoku Solver | João Pedro | 
 
 
 ## Screenshots
